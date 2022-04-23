@@ -3,8 +3,8 @@ package main
 import (
 	_ "amp/internal/packed"
 
-	"github.com/gogf/gf/v2/os/gctx"
 	"amp/internal/cmd"
+	"github.com/gogf/gf/v2/os/gctx"
 )
 
 func main() {

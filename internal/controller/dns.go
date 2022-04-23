@@ -3,8 +3,8 @@ package controller
 import (
 	"context"
 
-	"github.com/gogf/gf/v2/frame/g"
 	"amp/apiv1"
+	"github.com/gogf/gf/v2/frame/g"
 )
 
 var (
